@@ -10,7 +10,7 @@ function App() {
 
 
   return (
-    <div className="container-app">
+    <div className="containermain">
       <Header/>
       <Page/>
       <Footer/>
